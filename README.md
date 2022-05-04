@@ -1,3 +1,5 @@
 # Automation_Project
 Upgrad assignment to write the bash script for installing apache2 
-creating tar file for apache logs in uploading the same on S3 bucket.
+Creating .tar file for apache access logs and uploading the same on S3 bucket.
+This also contains the cron job which will trigger automation.sh script every day at 8PM
+
